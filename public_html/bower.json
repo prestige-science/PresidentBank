@@ -1,0 +1,22 @@
+{
+  "name": "web_atm",
+  "homepage": "https://github.com/nwaweru/web_atm",
+  "authors": [
+    "Ndirangu Waweru <ndiranguwaweru@gmail.com>"
+  ],
+  "description": "Bower components for the web_atm project",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "datatables": "^1.10.15"
+  }
+}
